@@ -1,5 +1,6 @@
 # Agricultural-Marketing-Dashboard
 # MANOJ EDIT
+# NEW TRY FOR FETCH
 
 We have implemented a system that would make use of the Information about the prices of the Agricultural Commodities in markets across different regions in India and provide certain meaningful insights along certain aspects. Such that because of these functionalities of this system, it would be extremely useful for the users to get useful insights that would influence their decisions taken during the entire process of farming the crops to selling them.
 
